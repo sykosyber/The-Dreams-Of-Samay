@@ -7,7 +7,7 @@
 ![Los Sueños de Samay Screenshot](https://i.imgur.com/SG5lcvt.png)
 
 
-## ► [**View the Live Experience**](https://YOUR_USERNAME.github.io/YOUR_REPOSITORY_NAME/)
+## ► [**View the Live Experience**](https://sykosyber.github.io/The-Dreams-Of-Samay/)
 
 *(Note: For the best experience, please use a desktop browser. Microphone access is optional for sound reactivity.)*
 
