@@ -1,5 +1,5 @@
 # Los Sueños de Samay
-Interactive digital art piece at the border of order and chaos.
+Interactive digital art piece straddling the border between order and chaos. Meaning through subtraction, aesthetics through algorithms. 
 
 ---
 
