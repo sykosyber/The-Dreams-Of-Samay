@@ -1,4 +1,5 @@
 # Los Sueños de Samay
+Interactive digital art piece at the border of order and chaos.
 
 ---
 
@@ -50,12 +51,14 @@ This project was built from the ground up with vanilla web technologies.
 -   *Poetry & Lead Development:* Samay
 -   *Built in Collaboration with Claude & Gemini*
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### [auto prescribed symbolic narratives]
 *The words and the pictures, do they tell the full story? A story without a name, that only a lucky few know.*
 
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
