@@ -2,9 +2,6 @@
 
 ---
 
-### [auto prescribed symbolic narratives]
-The words and the pictures, do they tell the full story? A story without a name, that only a lucky few know.
-
 ![Los Sueños de Samay Screenshot](https://i.imgur.com/SG5lcvt.png)
 
 
@@ -52,6 +49,12 @@ This project was built from the ground up with vanilla web technologies.
 ## Acknowledgments
 -   *Poetry & Lead Development:* Samay
 -   *Built in Collaboration with Claude & Gemini*
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+### [auto prescribed symbolic narratives]
+*The words and the pictures, do they tell the full story? A story without a name, that only a lucky few know.*
+
+
 
 ## License
 
