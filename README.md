@@ -1,6 +1,6 @@
 # Los Sueños de Samay
 
-### [auto prescribed symbolic narratives]
+### [Rhizomatic Symbolic Narratives]
 
 ---
 
