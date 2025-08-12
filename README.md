@@ -1,5 +1,6 @@
 # Los Sueños de Samay
-An interactive digital art piece straddling the border between order and chaos. Meaning through subtraction, aesthetics through algorithms. 
+
+### [auto prescribed symbolic narratives]
 
 ---
 
@@ -14,7 +15,7 @@ An interactive digital art piece straddling the border between order and chaos. 
 
 ## About The Project
 
-**Los Sueños de Samay (The Dreams of Samay)** is a multi-layered, interactive art piece that explores the synergy between the written word and generative visuals. It functions as a "living dream machine" where poetry is not static text, but a set of instructions that shape a dynamic, ever-changing dreamscape.
+**Los Sueños de Samay (The Dreams of Samay)** is a multi-layered, interactive digital art piece straddling the border between order and chaos. Meaning through subtraction, aesthetics through algorithms.  It functions as a "living dream machine" where poetry is not static text, but a set of instructions that shape a dynamic, ever-changing dreamscape.
 
 The user is invited to become a co-creator. By drawing directly on the canvas, triggering events by clicking on words, and even using their voice, they leave a persistent mark on the machine's memory. The aesthetic blends the cold, technical precision of a blueprint with the chaotic, beautiful, and ephemeral nature of a dream.
 
@@ -57,7 +58,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### [auto prescribed symbolic narratives]
 *The words and the pictures, do they tell the full story? A story without a name, that only a lucky few know.*
 
 
